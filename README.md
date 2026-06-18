@@ -1,5 +1,7 @@
 # OFAC Sanctions Screening API — Batch SDN Screening for KYC and AML
 
+![cover](./cover.png)
+
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify&logoColor=white)](https://apify.com/george.the.developer/ofac-sanctions-screener)
 [![OFAC SDN](https://img.shields.io/badge/OFAC-SDN%20List-red)](https://sanctionssearch.ofac.treas.gov/)
 [![Pricing](https://img.shields.io/badge/Pricing-%240.01%2Fentity-green)](https://apify.com/george.the.developer/ofac-sanctions-screener)
